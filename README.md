@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ASP.NET**
 
-- 💬 Ask me about **ASP.NET,Blazor*
+- 💬 Ask me about **ASP.NET,Blazor,Clean arcitucture , Microservices arcitucture ,Docker ,Azure cloude ,unite test ,Sql server Db ,Wep API , Jwt Authentication and other technology in .net.*
 
 - 📫 How to reach me **ahmedsalehghaithan@gmail.com**
 
