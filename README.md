@@ -14,7 +14,7 @@
   <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
   ## I'm an Associate Software Engineer at Acentura
-  - 🌱 I’m currently learning **ASP.NET**
+  - 🌱 I’m currently working with **ASP.NET**
   
   - 💬 Ask me about **ASP.NET, Blazor, Clean Architecture, Microservices Architecture, Docker, Azure Cloud, Unit Testing, SQL Server, Web API, JWT Authentication**, and other .NET technologies.
 
