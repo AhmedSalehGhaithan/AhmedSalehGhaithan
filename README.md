@@ -23,13 +23,13 @@
 
 ## Systems I work on (enterprise domain)
 
-At **Obican** and **DataTrand**, I contribute to a **modular enterprise platform** around **HR core, payroll, attendance, and employee self-service**—think multiple **bounded contexts** (HR master data, payroll processing, time & attendance, self-service portals) connected through **well-defined integration** rather than tight coupling.
+At **Obican** and **DataTrand**, I contribute to a **modular enterprise platform** around **HR core, payroll, attendance, and employee self-service**—multiple **bounded contexts** (HR master data, payroll processing, time & attendance, self-service portals) connected through **well-defined integration** rather than tight coupling.
 
 **Architecture patterns in practice**
 - **Modular monolith** first: feature folders, **Clean Architecture** layers, **CQRS**-style commands/queries where it pays off  
 - **Domain events & integration events** for cross-module workflows (e.g. employee lifecycle, downstream sync)  
 - **Message consumers** and **event mapping** for reliable handoffs between modules/services  
-- **EF Core**, **SQL Server**, **Docker**, **Azure**-aligned deployment practices  
+- **EF Core**, **SQL Server**, **Docker**, cloud-ready deployment practices  
 - **JWT**-based security patterns for APIs where applicable  
 
 **Stack I lean on:** **ASP.NET Core**, **Blazor** where UI is in play, **REST/Web API**, **unit & integration testing**, **Git**-based workflows.
@@ -43,14 +43,11 @@ At **Obican** and **DataTrand**, I contribute to a **modular enterprise platform
     <b>Languages</b><br><br>
     <img width="30" alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
     <img width="30" alt="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-    <img width="30" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-    <img width="30" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   </kbd>
   <kbd>
     <b>Backend</b><br><br>
     <img width="30" alt="ASP.NET" src="https://img.shields.io/badge/ASP.NET-%235C2D91.svg?style=for-the-badge&logo=asp.net&logoColor=white" />
     <img width="30" alt=".NET" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" />
-    <img width="30" alt="Azure" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
     <img width="30" alt="EF Core" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ef/ef-original.svg" />
   </kbd>
   <kbd>
