@@ -1,42 +1,51 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Hi" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="" />
 </p>
 
 <h1 align="center">Ahmed Ghaithan</h1>
-<h3 align="center">Software Architect · Backend (.NET) · Yemen</h3>
+<h3 align="center">Software Architect · .NET Backend · Yemen</h3>
 
 <p align="center">
   <a href="https://github.com/fairyland0926">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Modular%20Monolith%20%26%20service%20boundaries;Enterprise%20HR%20%2F%20Payroll%20%2F%20Attendance%20ecosystem;CQRS%20%7C%20Integration%20events%20%7C%20Clean%20Architecture;2%2B%20years%20shipping%20production%20systems;Obican%20%E2%80%A2%20DataTrand&font=Pacifico&center=true&width=720&height=120&color=58a6ff&vCenter=true&size=40" alt="Typing animation" />
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Modular%20monoliths%20with%20clear%20boundaries;HR%20%E2%80%A2%20Payroll%20%E2%80%A2%20Attendance%20%E2%80%A2%20Self-service;CQRS%20%7C%20Integration%20events%20%7C%20Clean%20Architecture;Shipping%20maintainable%20production%20systems;Obican%20%E2%80%A2%20DataTrand&font=Pacifico&center=true&width=720&height=120&color=58a6ff&vCenter=true&size=38" alt="" />
   </a>
 </p>
 
-<img align="right" alt="Coding" height="160" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+<img align="right" alt="" height="160" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
-## Role & focus
+## Summary
 
-**Software Architect** with **2+ years** delivering **production-grade backends**. I design and evolve **professional modular monolithic architectures**: clear module boundaries, explicit contracts between domains, and a path to scale (events, APIs, and deployment) **without** turning the codebase into an unmaintainable “distributed ball of mud.”
+I’m a **backend-focused software architect** (**2+ years** in production) who designs **modular monolithic systems** that stay **cohesive inside a service** and **explicit at the boundaries**—so teams can evolve features safely without “accidental distributed systems.”
 
-**What I optimize for:** predictable delivery, testability, observability, and refactor-friendly structure—so teams can move fast without breaking the system.
-
----
-
-## Systems I work on (enterprise domain)
-
-At **Obican** and **DataTrand**, I contribute to a **modular enterprise platform** around **HR core, payroll, attendance, and employee self-service**—multiple **bounded contexts** (HR master data, payroll processing, time & attendance, self-service portals) connected through **well-defined integration** rather than tight coupling.
-
-**Architecture patterns in practice**
-- **Modular monolith** first: feature folders, **Clean Architecture** layers, **CQRS**-style commands/queries where it pays off  
-- **Domain events & integration events** for cross-module workflows (e.g. employee lifecycle, downstream sync)  
-- **Message consumers** and **event mapping** for reliable handoffs between modules/services  
-- **EF Core**, **SQL Server**, **Docker**, cloud-ready deployment practices  
-- **JWT**-based security patterns for APIs where applicable  
-
-**Stack I lean on:** **ASP.NET Core**, **Blazor** where UI is in play, **REST/Web API**, **unit & integration testing**, **Git**-based workflows.
+I’m strongest where **domain complexity**, **data consistency**, and **long-term maintainability** matter: structured modules, disciplined contracts, and integration that is observable and testable.
 
 ---
 
-## Stack
+## What I bring to a team
+
+| Area | How I work |
+|------|------------|
+| **Architecture** | Modular monolith first: bounded contexts, stable module APIs, incremental extraction when scaling is justified—not premature microservices. |
+| **Backend delivery** | **ASP.NET Core**, **Clean Architecture**, **CQRS** where it reduces complexity, pragmatic layering, refactor-friendly code. |
+| **Integration** | **Integration events**, consumers, mapping pipelines—reliable handoffs between HR/payroll/attendance/self-service style domains. |
+| **Data** | **SQL Server** + **EF Core** with performance awareness (indexes, hot paths, migration discipline). |
+| **Quality** | **Unit & integration tests** that protect behavior during change; clear failure modes and logging for operations. |
+| **Dev workflow** | **Git**, **Docker**, repeatable builds and deployment-minded structure. |
+
+---
+
+## Domain experience (enterprise)
+
+At **Obican** and **DataTrand**, I work on **enterprise workforce platforms**: **HR core**, **payroll**, **time & attendance**, and **employee self-service**—systems where correctness, auditability, and integration between modules are non-negotiable.
+
+**Typical problems I help solve**
+- Keeping employee and payroll-related flows **consistent** across modules  
+- Designing **event-driven synchronization** without hiding business rules in “magic” infrastructure  
+- Making changes **safe**: contracts, versioning mindset, and tests that catch regressions early  
+
+---
+
+## Tech stack
 
 <p align="center">
   <kbd>
@@ -76,6 +85,8 @@ At **Obican** and **DataTrand**, I contribute to a **modular enterprise platform
   </kbd>
 </p>
 
+**Keywords for search:** ASP.NET Core, Web API, Blazor, Clean Architecture, CQRS, modular monolith, integration events, SQL Server, EF Core, Docker, JWT.
+
 ---
 
 ## GitHub
@@ -108,3 +119,5 @@ At **Obican** and **DataTrand**, I contribute to a **modular enterprise platform
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/اح-مد-27ab382b6/"><img width="24" alt="LinkedIn" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" /></a>
 </p>
+
+<p align="center"><i>Open to remote roles and serious opportunities.</i></p>
